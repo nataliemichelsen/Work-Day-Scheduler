@@ -1,3 +1,5 @@
+/* // color-code past, present, future slots using classes or bootstrap  */
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -72,4 +74,16 @@ textarea{
 
 .userInput {
   width: 100%;
+}
+
+.hourSlot {
+
+}
+
+.userInput {
+
+}
+
+.saveBtn {
+  
 }
