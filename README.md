@@ -4,6 +4,3 @@ In order to create this page, I utilized HTML, CSS, and JS sheets and pushed my 
 The HTML served at the structure for the page, housing the time slots, user input fields, and save button. It also linked all relevant pages together and housed the outside links such as bootstrap and moment. 
 The CSS enabled the generalized styling of the page and also the color-coding for the hour slots. 
 The JS script enabled all functions to work properly, allowed data to be saved to local storage while also saving it to the page, and allowed the Moment.JS information to be implimented. 
-
-
-*thank you for your patience with the submittance errors and general tardiness of this project
